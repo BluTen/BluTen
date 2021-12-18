@@ -1,4 +1,6 @@
-Hi, I’m @BluTen (It's not my real name). I am 14 years old
+Hi, I’m BluTen (It's not my real name).
+
+I am a teen who as started to learn programming.
 
 <!---
 BluTen/BluTen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
