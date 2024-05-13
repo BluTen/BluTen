@@ -1,6 +1,6 @@
-Hi, I’m BluTen (It's not my real name).
+Hi, I’m BluTen.
 
-I am a teen who as started to learn programming.
+Idk why u are checking out my repo cause there isnt anything interesting yet soo make yourself home.
 
 <!---
 BluTen/BluTen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
